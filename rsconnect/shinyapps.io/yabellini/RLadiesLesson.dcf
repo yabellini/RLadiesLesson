@@ -1,0 +1,13 @@
+name: RLadiesLesson
+title: RLadiesLesson
+username:
+account: yabellini
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1914756
+bundleId: 2905230
+url: https://yabellini.shinyapps.io/RLadiesLesson/
+when: 1584793733.19887
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_interesante_download.R|app_original.R|data_with_topic.csv|DataSetBuild.R|GenerarDSparaShiny.R
